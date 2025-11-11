@@ -28,7 +28,7 @@ At the end of the test if the RAM passes the green LED will be enabled.
 
 Any errors will be displayed on the serial monitor, andf the red LED will be enabled. 
 
-![Serial Output](https://raw.githubusercontent.com/MyRetroStore/MPS6550-RAM-Tester/main/hardware/mps6550.png)
+![Serial Output](https://raw.githubusercontent.com/MyRetroStore/MPS6550-RAM-Tester/main/hardware/mps6550-hat.png)
 
 ![Serial Output](https://raw.githubusercontent.com/MyRetroStore/MPS6550-RAM-Tester/main/hardware/mps6550-serial.png)
 
