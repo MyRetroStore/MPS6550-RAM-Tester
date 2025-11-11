@@ -36,7 +36,7 @@ Any errors will be displayed on the serial monitor, andf the red LED will be ena
 
 The gerber files for the shield can be found under hardware/gerbers
 
-![Retro ROM Tester](https://github.com/MyRetroStore/MPS6550-RAM-Tester/blob/main/hardware/mps6550-hat.png?raw=true)
+![Retro ROM Tester](https://github.com/MyRetroStore/MPS6550-RAM-Tester/blob/main/hardware/mps6550-top.png?raw=true)
 
 ## BOM
 | Reference | Value |
