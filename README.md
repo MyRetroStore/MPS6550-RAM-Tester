@@ -14,7 +14,7 @@ I built a shield for the Arduino Mega 2560 which runs 4 tests:
 * Writes incremental data to each address and verifies
  
 
-![Serial Output](https://raw.githubusercontent.com/MyRetroStore/MPS6550-ROM-Tester/main/hardware/mps6550-top.png)
+![Serial Output](https://raw.githubusercontent.com/MyRetroStore/MPS6550-RAM-Tester/main/hardware/mps6550-top.png)
 
 ## Usage
 This Arduino sketch was built and tested using Arduino IDE 1.8.19 but should work with later versions.
@@ -30,15 +30,15 @@ At the end of the test if the RAM passes the green LED will be enabled.
 
 Any errors will be displayed on the serial monitor, andf the red LED will be enabled. 
 
-![Serial Output](https://raw.githubusercontent.com/MyRetroStore/MPS6550-ROM-Tester/main/hardware/mps6550.png)
+![Serial Output](https://raw.githubusercontent.com/MyRetroStore/MPS6550-RAM-Tester/main/hardware/mps6550.png)
 
-![Serial Output](https://raw.githubusercontent.com/MyRetroStore/MPS6550-ROM-Tester/main/hardware/mps6550-serial.png)
+![Serial Output](https://raw.githubusercontent.com/MyRetroStore/MPS6550-RAM-Tester/main/hardware/mps6550-serial.png)
 
 ## Shield
 
 The gerber files for the shield can be found under hardware/gerbers
 
-![Retro ROM Tester](https://github.com/MyRetroStore/MPS6550-ROM-Tester/blob/main/hardware/mps6550-hat.png?raw=true)
+![Retro ROM Tester](https://github.com/MyRetroStore/MPS6550-RAM-Tester/blob/main/hardware/mps6550-hat.png?raw=true)
 
 ## BOM
 | Reference | Value |
