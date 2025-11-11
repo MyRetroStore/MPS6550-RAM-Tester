@@ -14,7 +14,7 @@ I built a shield for the Arduino Mega 2560 which runs 4 tests:
 * Writes incremental data to each address and verifies
  
 
-![Serial Output](https://raw.githubusercontent.com/MyRetroStore/MPS6540-ROM-Tester/main/hardware/mps6550-top.png)
+![Serial Output](https://raw.githubusercontent.com/MyRetroStore/MPS6550-ROM-Tester/main/hardware/mps6550-top.png)
 
 ## Usage
 This Arduino sketch was built and tested using Arduino IDE 1.8.19 but should work with later versions.
